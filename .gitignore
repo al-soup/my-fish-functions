@@ -1,0 +1,9 @@
+# Excluded functions
+fdn-dev.fish
+fdn-time.fish
+fdn-prod.fish
+prg.fish
+prg.i.fish
+prg.e.fish
+ma.fish
+maj.fish

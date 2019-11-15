@@ -1,4 +1,4 @@
-# Repeat previous command with admin rights wiht ``sudo !!`
+# Repeat previous command with admin rights. Usage: `sudo !!`
 function sudo
     if test "$argv" = !!
         eval command sudo $history[1]

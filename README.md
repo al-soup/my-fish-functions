@@ -7,5 +7,7 @@ Here is a small collection of functions that I have setup for macOS. At the mome
 ## Customize
 Packages and themes can be installed with [*Oh My Fish*](https://github.com/oh-my-fish/oh-my-fish). Further adapt your shell via the browser GUI by running `fish_config`
 
+You can add these functions or create new ones by creating `.fish` files. Store them in **macOS** and **Ubuntu** under _\$HOME/.config/fish/functions/_.
+
 ## Directory colors on macOS
 The directory colors used in the mac terminal might be hard to read with the default setup. You can change the default `ls` colors by running `set -Ux LSCOLORS [colorValue]`. BSD color values can be generated [here](https://geoff.greer.fm/lscolors/). I am currently using teal: `gxfxbEaEBxxEhEhBaDaCaD`

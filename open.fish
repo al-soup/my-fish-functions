@@ -1,9 +1,9 @@
-function vscodesettings
+function open
 	switch (uname)
 	case Darwin
-		cd ~/Library/Application\ Support/Code/User/
+		\open $argv
 	case Linux
-		cd ~/.config/Code/User/
+		xdg-open $argv
 	case "*"
 		echo "Command not specified for OS: "(uname)
 	end

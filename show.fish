@@ -1,7 +1,7 @@
-function open
+function show
 	switch (uname)
 	case Darwin
-		\open $argv
+		open $argv
 	case Linux
 		xdg-open $argv
 	case "*"

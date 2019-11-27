@@ -1,4 +1,4 @@
-function vscodesettings
+function vscodesettings --description 'Navigate to VS Code directory'
 	switch (uname)
 	case Darwin
 		cd ~/Library/Application\ Support/Code/User/

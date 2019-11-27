@@ -1,4 +1,4 @@
-function f
+function f --description 'Open current directory in file naviator'
 	switch (uname)
 	case Darwin
 		open -a Finder ./

@@ -1,4 +1,4 @@
-function show
+function show --description 'Open file with default application'
 	switch (uname)
 	case Darwin
 		open $argv

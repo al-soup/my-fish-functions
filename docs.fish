@@ -1,4 +1,4 @@
-function docs
+function docs --description 'Navigate to Documents folder'
     switch (uname -s)
     case Darwin Linux FreeBSD NetBSD DragonFly
 		set documents $HOME/Documents

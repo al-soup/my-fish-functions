@@ -4,6 +4,12 @@ I've started using the [*fish*](https://fishshell.com/) shell due to enhanced us
 
 Here is a small collection of functions that I have setup for macOS and Linux(Ubuntu). At the moment they mostly consist of directory movements and aliases, but I'll gradually add more functions to this repo over time as I make better use of *fish*.
 
+## Fish documentation
+
+* fish [tutorial](https://fishshell.com/docs/current/tutorial.html)
+* Nice intro [intro](https://github.com/jorgebucaran/fish-cookbook)
+* fish [command docs](https://fishshell.com/docs/current/commands.html)
+
 ## Customize
 Packages and themes can be installed with [*Oh My Fish*](https://github.com/oh-my-fish/oh-my-fish). Adapt your shell further via the browser GUI by running `fish_config`
 

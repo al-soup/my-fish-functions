@@ -1,11 +1,6 @@
 # Excluded functions
-fdn-dev.fish
-fdn-time.fish
-fdn-prod.fish
-prg.fish
-prg.i.fish
-prg.e.fish
-prg.r.fish
-ma.fish
+prg.*
 maj.fish
 fish_prompt.fish
+.DS_Store
+

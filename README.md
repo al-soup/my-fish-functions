@@ -1,4 +1,4 @@
-| No longer maintained. I have moved all configs to dotfiles
+**No longer maintained. I have moved all configs to dotfiles**
 
 #  My 🐟 Functions
 

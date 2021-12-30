@@ -1,3 +1,5 @@
+| No longer maintained. I have moved all configs to dotfiles
+
 #  My 🐟 Functions
 
 I've started using the [*fish*](https://fishshell.com/) shell due to enhanced user expirience while still being similar to the *bash* unix shell.
